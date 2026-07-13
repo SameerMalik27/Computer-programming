@@ -7,7 +7,7 @@
 - **Department:** Computer Science
 - **University:** Bahria University, Lahore Campus
 - **Section:** A
-- **Instructor:** Ms. Mehreen Taria
+- **Instructor:** Mam. Mehreen Tariaq
 
 ---
 
