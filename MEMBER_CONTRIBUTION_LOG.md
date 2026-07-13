@@ -4,7 +4,7 @@
 Computer Programming
 
 ## Instructor
-Mam. Mehreen Tariaq
+Mam. Mehreen Tariq
 
 ## Section
 A
@@ -51,7 +51,7 @@ Contribution:
 
 Submitted to:
 
-**Mam. Mehreen Tariaq**
+**Mam. Mehreen Tariq**
 
 Department of Computer Science
 
