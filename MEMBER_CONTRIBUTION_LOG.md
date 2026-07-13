@@ -4,7 +4,7 @@
 Computer Programming
 
 ## Instructor
-Ms. Mehreen Taria
+Mam. Mehreen Tariaq
 
 ## Section
 A
